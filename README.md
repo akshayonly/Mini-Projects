@@ -4,5 +4,5 @@ This repository contain small-scale **programming**, **genomics** and **machine 
 
 ## Files
 
-- *Spotify_Radar.ipynb*
+- Spotify_Radar
 	- Get music features of your favorite Spotify playlists
