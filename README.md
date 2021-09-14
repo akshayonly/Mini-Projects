@@ -1,6 +1,6 @@
 # Mini-Projects
 
-This repository contain small-scale **programming**, **genomics** and **machine learning** projects.
+This repository contain small-scale **programming**, **structural bioinformatics**, **genomics** and **machine learning** projects.
 
 ## Files
 
