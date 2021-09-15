@@ -1,3 +1,0 @@
-# RNA Ligand Database
-
-
