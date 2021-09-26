@@ -6,7 +6,8 @@ This repository contain personal **programming-related**, **structural bioinform
 
 - Spotify_Radar 🎵
 	- Get music features of your favorite Spotify playlists
-	- Click Here 👉🏻 [Webapp Link](https://artist-compare.herokuapp.com/)
+	- Want to compare artists?
+		- Click Here 👉🏻 [Webapp Link](https://artist-compare.herokuapp.com/)
 
 - PubMed-Abstracts-Graph-Visualisation ❄
 	- MeSH terms graph visualisation
