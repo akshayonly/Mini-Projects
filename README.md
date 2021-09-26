@@ -2,7 +2,7 @@
 
 This repository contain personal **programming-related**, **structural bioinformatics**, **genomics** and **machine learning** projects.
 
-## Files
+## Folders
 
 - Spotify_Radar
 	- Get music features of your favorite Spotify playlists
