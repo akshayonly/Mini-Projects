@@ -11,6 +11,6 @@ This repository contain personal **programming-related** and **bioinformatics-re
 
 - PubMed-Abstracts-Graph-Visualisation ❄
 	- MeSH terms graph visualisation
-	   - Click Here 👉🏻 [sample_mesh_graph](https://raw.githubusercontent.com/akshayonly/Mini-Projects/main/PubMed-Abstracts-Graph-Visualisation/article_2.png)
+	   - Click Here 👉🏻 [sample_mesh_graph](https://raw.githubusercontent.com/akshayonly/Mini-Projects/main/PubMed-Abstracts-Graph-Visualisation/sample_plot.png)
 	
 	- Combine multiple article graph visualisation (on-going)
