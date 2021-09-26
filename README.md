@@ -6,7 +6,7 @@ This repository contain personal **programming-related**, **structural bioinform
 
 - Spotify_Radar
 	- Get music features of your favorite Spotify playlists
-	- (On-going...)
 
-- RNA-LIGANDS-DATABASE
-	- (On-going...) 
+- PubMed-Abstracts-Graph-Visualisation
+	- MeSH terms graph visualisation
+	- Combine multiple article graph visualisation (on-going)
