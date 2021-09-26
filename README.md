@@ -4,10 +4,10 @@ This repository contain personal **programming-related**, **structural bioinform
 
 ## Folders
 
-- Spotify_Radar
+- Spotify_Radar 🎵
 	- Get music features of your favorite Spotify playlists
 
-- PubMed-Abstracts-Graph-Visualisation
+- PubMed-Abstracts-Graph-Visualisation ❄
 	- MeSH terms graph visualisation
 	   - [sample_mesh_graph](https://raw.githubusercontent.com/akshayonly/Mini-Projects/main/PubMed-Abstracts-Graph-Visualisation/article_2.png)
 	
