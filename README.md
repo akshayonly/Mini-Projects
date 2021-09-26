@@ -1,6 +1,6 @@
 # Mini-Projects
 
-This repository contain personal **programming-related**, **structural bioinformatics**, **genomics** and **machine learning** projects.
+This repository contain personal **programming-related** and **bioinformatics-related** projects.
 
 ## Folders
 
